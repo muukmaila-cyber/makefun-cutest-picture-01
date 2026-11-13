@@ -1,8 +1,8 @@
 # Cutest picture — make.fun entry
 
-An extremely fluffy cream kitten with huge round amber eyes and a tilted
-head, wearing a tiny blue bow tie, on a plain warm cream background. The
-subject fills the frame and still reads at small size.
+A tiny cream kitten with huge round eyes hugging a fluffy yellow chick,
+both cuddling close with soft warm light, on a plain warm cream background.
+The pair fills the frame and still reads at small size.
 
 `main.py` (stdlib only, no network) copies the bundled `picture.jpg` to
 `/output/entry.png` and verifies it: JPEG magic bytes, at most 1 MiB,
