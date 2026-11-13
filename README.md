@@ -1,8 +1,8 @@
 # Cutest picture — make.fun entry
 
-A tiny round baby penguin with big dark eyes hugging a small yellow star
-plushie, on a soft pastel pink background. The subject fills the frame and
-still reads at small size.
+An extremely fluffy cream kitten with huge round amber eyes and a tilted
+head, wearing a tiny blue bow tie, on a plain warm cream background. The
+subject fills the frame and still reads at small size.
 
 `main.py` (stdlib only, no network) copies the bundled `picture.jpg` to
 `/output/entry.png` and verifies it: JPEG magic bytes, at most 1 MiB,
